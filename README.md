@@ -9,9 +9,9 @@ This was my last case study of Careerfoundry course which focused on the followi
 * Unsupervised machine learning: Clustering
 * Sourcing and analyzing Time Series data
 
-The analysis explores two hypetheses:
-1. Taller MMA fighters have a longer reach
-2. Grappling arts have surpassed the arts of striking
+The analysis explored the following hypethesis:
+
+2. MMA Grappling arts have surpassed the arts of Striking
 
 [Link to Tableau Storyboard](https://public.tableau.com/app/profile/heidi.jansen.van.rensburg/viz/Exercise6_7_16326013085460/Story1)
 
