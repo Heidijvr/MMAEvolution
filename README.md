@@ -2,7 +2,7 @@
 
 An analysis of MMA fights 2010 to 2021. The data set was provided by [Kaggle](https://www.kaggle.com/mdabbert/ultimate-ufc-dataset?select=most-recent-event.csv).
 
-This was my last case study of Careerfoundry course which focused on the following new skills:
+This was the last case study of my Careerfoundry course; there was a focus on the following new skills:
 * Sourcing open data
 * Geospatial analysis and visualizations
 * Supervised machine learning: Regression
