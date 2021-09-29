@@ -9,7 +9,7 @@ This was the last case study of my Careerfoundry course; there was a focus on th
 * Unsupervised machine learning: Clustering
 * Sourcing and analyzing Time Series data
 
-The analysis explored the following hypethesis:
+**The analysis explored the following hypethesis:**
 
 MMA Grappling arts have surpassed the arts of Striking
 
