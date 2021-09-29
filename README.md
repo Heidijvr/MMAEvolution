@@ -11,7 +11,7 @@ This was my last case study of Careerfoundry course which focused on the followi
 
 The analysis explored the following hypethesis:
 
-2. MMA Grappling arts have surpassed the arts of Striking
+MMA Grappling arts have surpassed the arts of Striking
 
 [Link to Tableau Storyboard](https://public.tableau.com/app/profile/heidi.jansen.van.rensburg/viz/Exercise6_7_16326013085460/Story1)
 
