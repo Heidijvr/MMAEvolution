@@ -13,5 +13,5 @@ This was the last case study of my Careerfoundry course; there was a focus on th
 
 *MMA Grappling arts have surpassed the arts of Striking*
 
-[Link to Tableau Storyboard](https://public.tableau.com/app/profile/heidi.jansen.van.rensburg/viz/Exercise6_7_16326013085460/Story1)
+[Link to Tableau Storyboard](https://public.tableau.com/views/Exercise6_7_16326013085460/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
